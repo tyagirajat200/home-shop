@@ -1,0 +1,207 @@
+[
+	{
+		"id": 1,
+		"title": "Top Offers",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100",
+		"to": "/products/offers"
+	},
+	{
+		"id": 2,
+		"title": "Mobiles",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100",
+		"to": "/products/mobiles"
+	},
+	{
+		"id": 3,
+		"title": "Fashion",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/c12afc017e6f24cb.png?q=100",
+		"to": "/products/fashion",
+		"categories": [
+			{
+				"id": 1,
+				"title": "Men's Top Wear",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Men's T-shirts", "to": "/t-shirts" },
+					{ "title": "Men's Casual shirts", "to": "/casual-shirts" },
+					{ "title": "Men's Formal shirts", "to": "/formal-shirts" },
+					{ "title": "Men's Kurtas", "to": "/kurats" },
+					{ "title": "Men's Suit", "to": "/suits" }
+				]
+			},
+			{
+				"id": 2,
+				"title": "Men's Bottom Wear",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Men's Jeans", "to": "/jeans" },
+					{ "title": "Men's Trousers", "to": "/trousers" },
+					{ "title": "Men's Trackpants", "to": "/track-pants" },
+					{ "title": "Men's Cargos", "to": "/cargos" },
+					{ "title": "Men's Shorts", "to": "/shorts" }
+				]
+			},
+			{
+				"id": 3,
+				"title": "Women's Top Wear",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Women's T-shirts", "to": "/t-shirts" },
+					{ "title": "Women's Casual shirts", "to": "/casual-shirts" },
+					{ "title": "Women's Formal shirts", "to": "/formal-shirts" },
+					{ "title": "Women's Kurtas", "to": "/kurats" },
+					{ "title": "Women's Suit", "to": "/suits" }
+				]
+			},
+			{
+				"id": 4,
+				"title": "Women's Bottom Wear",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Women's Jeans", "to": "/jeans" },
+					{ "title": "Women's Trousers", "to": "/trousers" },
+					{ "title": "Women's Trackpants", "to": "/track-pants" },
+					{ "title": "Women's Cargos", "to": "/cargos" },
+					{ "title": "Women's Shorts", "to": "/shorts" }
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "Home",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/ab7e2b022a4587dd.jpg?q=100",
+		"to": "/products/home"
+	},
+	{
+		"id": 5,
+		"title": "Electronics",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/69c6589653afdb9a.png?q=100",
+		"to": "/products/Electronics",
+		"categories": [
+			{
+				"id": 1,
+				"title": "Camera and Accessories",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "DSLR & Mirrorless", "to": "/t-shirts" },
+					{ "title": "Sports and Actions", "to": "/casual-shirts" },
+					{ "title": "Point & Shoot", "to": "/formal-shirts" },
+					{ "title": "Instant Cameras", "to": "/kurats" },
+					{ "title": "Drones", "to": "/suits" },
+					{ "title": "Gimbals", "to": "/suits" }
+				]
+			},
+			{
+				"id": 2,
+				"title": "Gaming",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Gaming Laptop", "to": "/jeans" },
+					{ "title": "Gaming Mouse", "to": "/trousers" },
+					{ "title": "Controllers", "to": "/track-pants" },
+					{ "title": "Gaming Keyboard", "to": "/cargos" }
+				]
+			},
+			{
+				"id": 3,
+				"title": "Health & Personal",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Trimmers", "to": "/t-shirts" },
+					{ "title": "Shavers", "to": "/casual-shirts" },
+					{ "title": "Hair Dryers", "to": "/formal-shirts" },
+					{ "title": "Digital Thermometer", "to": "/kurats" },
+					{ "title": "Massagers", "to": "/suits" },
+					{ "title": "Vapoorizers", "to": "/suits" }
+				]
+			},
+			{
+				"id": 4,
+				"title": "Storage",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Mobile memory Cards", "to": "/jeans" },
+					{ "title": "External Harddrive", "to": "/trousers" },
+					{ "title": "Pendrive", "to": "/track-pants" },
+					{ "title": "SSD", "to": "/cargos" },
+					{ "title": "Ram", "to": "/shorts" }
+				]
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "Appliances",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/0ff199d1bd27eb98.png?q=100",
+		"to": "/products/appliance"
+	},
+	{
+		"id": 7,
+		"title": "Grocery",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/29327f40e9c4d26b.png?q=100",
+		"to": "/grocery"
+	},
+	{
+		"id": 8,
+		"title": "Beauty and Toys",
+		"imgSrc": "https://rukminim1.flixcart.com/flap/128/128/image/dff3f7adcf3a90c6.png?q=100",
+		"to": "/products/beauty",
+		"categories": [
+			{
+				"id": 1,
+				"title": "Men's Grooming",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Face washes", "to": "/t-shirts" },
+					{ "title": "Beard Oil", "to": "/casual-shirts" },
+					{ "title": "Shaving Essentials", "to": "/formal-shirts" },
+					{ "title": "AfterShave", "to": "/kurats" },
+					{ "title": "Soaps & Bodywashes", "to": "/suits" }
+				]
+			},
+			{
+				"id": 2,
+				"title": "Food & Drinks",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "beverages", "to": "/jeans" },
+					{ "title": "Nuts & Dry fruits", "to": "/trousers" },
+					{ "title": "Chacolates", "to": "/track-pants" },
+					{ "title": "Snacks Corner", "to": "/cargos" },
+					{ "title": "Sweet Store", "to": "/shorts" },
+					{ "title": "Baking Essentials", "to": "/shorts" },
+					{ "title": "Ready to Cook & eat", "to": "/shorts" }
+				]
+			},
+			{
+				"id": 3,
+				"title": "Baby Care",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Baby Diapers", "to": "/t-shirts" },
+					{ "title": "Baby Wipes", "to": "/casual-shirts" },
+					{ "title": "Baby Bath & Grooming", "to": "/formal-shirts" },
+					{ "title": "Baby Food", "to": "/kurats" },
+					{ "title": "Baby Beddibg", "to": "/suits" },
+					{ "title": "Baby Gear", "to": "/suits" },
+					{ "title": "Baby Gift Sets & Combo", "to": "/suits" },
+					{ "title": "Feeding Bottles", "to": "/suits" }
+				]
+			},
+			{
+				"id": 4,
+				"title": "Books",
+				"to": "/mens-top-wear",
+				"subCategory": [
+					{ "title": "Test prep", "to": "/jeans" },
+					{ "title": "Academics", "to": "/trousers" },
+					{ "title": "Fiction", "to": "/track-pants" },
+					{ "title": "Moral", "to": "/cargos" },
+					{ "title": "Non-fiction", "to": "/shorts" },
+					{ "title": "Audio Books", "to": "/shorts" }
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,174 @@
+[
+	{
+		"id": 1,
+		"title": "Best of Electronics",
+		"subTitle": "Best of Electronics",
+		"products": [
+			{
+				"id": 1,
+				"title": "12th Gen Laptops",
+				"subtext": "From 47,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/ktketu80/computer/y/f/g/14-ec0007ax-thin-and-light-laptop-hp-original-imag6w28yf6vbvpy.jpeg?q=70"
+			},
+			{
+				"id": 2,
+				"title": "Core i5 Laptops",
+				"subtext": "From 39,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kmp7ngw0/monitor/p/b/s/s2421hn-24-kvmtc-dell-original-imagfjphb5ytsfkj.jpeg?q=70"
+			},
+			{
+				"id": 3,
+				"title": "Premium Laptops",
+				"subtext": "From 45,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/ktop5e80/computer/f/p/w/km513ua-l503ts-thin-and-light-laptop-asus-original-imag6yt6ftegd5bx.jpeg?q=70"
+			},
+			{
+				"id": 4,
+				"title": "Monitor",
+				"subtext": "From 8,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70"
+			},
+			{
+				"id": 5,
+				"title": "BenQ Monitors",
+				"subtext": "From 9,999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kx50gi80/projector/r/9/p/zeb-pixa-play-12-5-6-dobly-audio-led-projector-zebronics-original-imag9z3yujqmzqt4.jpeg?q=70"
+			},
+			{
+				"id": 6,
+				"title": "projectors",
+				"subtext": "From 8999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg?q=70"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Beauty, Food Toys and more",
+		"subTitle": "Beauty, Food Toys and more",
+		"products": [
+			{
+				"id": 1,
+				"title": "12th Gen Laptops",
+				"subtext": "From 47,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg?q=70"
+			},
+			{
+				"id": 2,
+				"title": "Core i5 Laptops",
+				"subtext": "From 39,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kmp7ngw0/monitor/p/b/s/s2421hn-24-kvmtc-dell-original-imagfjphb5ytsfkj.jpeg?q=70"
+			},
+			{
+				"id": 3,
+				"title": "Premium Laptops",
+				"subtext": "From 45,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/ktop5e80/computer/f/p/w/km513ua-l503ts-thin-and-light-laptop-asus-original-imag6yt6ftegd5bx.jpeg?q=70"
+			},
+			{
+				"id": 4,
+				"title": "Monitor",
+				"subtext": "From 8,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70"
+			},
+			{
+				"id": 5,
+				"title": "BenQ Monitors",
+				"subtext": "From 9,999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kx50gi80/projector/r/9/p/zeb-pixa-play-12-5-6-dobly-audio-led-projector-zebronics-original-imag9z3yujqmzqt4.jpeg?q=70"
+			},
+			{
+				"id": 6,
+				"title": "projectors",
+				"subtext": "From 8999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg?q=70"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Top Gadget Offers",
+		"subTitle": "",
+		"products": [
+			{
+				"id": 1,
+				"title": "12th Gen Laptops",
+				"subtext": "From 47,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg?q=70"
+			},
+			{
+				"id": 2,
+				"title": "Core i5 Laptops",
+				"subtext": "From 39,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kmp7ngw0/monitor/p/b/s/s2421hn-24-kvmtc-dell-original-imagfjphb5ytsfkj.jpeg?q=70"
+			},
+			{
+				"id": 3,
+				"title": "Premium Laptops",
+				"subtext": "From 45,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/ktop5e80/computer/f/p/w/km513ua-l503ts-thin-and-light-laptop-asus-original-imag6yt6ftegd5bx.jpeg?q=70"
+			},
+			{
+				"id": 4,
+				"title": "Monitor",
+				"subtext": "From 8,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70"
+			},
+			{
+				"id": 5,
+				"title": "BenQ Monitors",
+				"subtext": "From 9,999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kx50gi80/projector/r/9/p/zeb-pixa-play-12-5-6-dobly-audio-led-projector-zebronics-original-imag9z3yujqmzqt4.jpeg?q=70"
+			},
+			{
+				"id": 6,
+				"title": "projectors",
+				"subtext": "From 8999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg?q=70"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "Best of Electronics",
+		"subTitle": "Best of Electronics",
+		"products": [
+			{
+				"id": 1,
+				"title": "12th Gen Laptops",
+				"subtext": "From 47,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg?q=70"
+			},
+			{
+				"id": 2,
+				"title": "Core i5 Laptops",
+				"subtext": "From 39,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kmp7ngw0/monitor/p/b/s/s2421hn-24-kvmtc-dell-original-imagfjphb5ytsfkj.jpeg?q=70"
+			},
+			{
+				"id": 3,
+				"title": "Premium Laptops",
+				"subtext": "From 45,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/ktop5e80/computer/f/p/w/km513ua-l503ts-thin-and-light-laptop-asus-original-imag6yt6ftegd5bx.jpeg?q=70"
+			},
+			{
+				"id": 4,
+				"title": "Monitor",
+				"subtext": "From 8,000",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/hair-dryer/c/t/g/philips-hp8100-46-original-imaemymzuxrnzfjb.jpeg?q=70"
+			},
+			{
+				"id": 5,
+				"title": "BenQ Monitors",
+				"subtext": "From 9,999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kx50gi80/projector/r/9/p/zeb-pixa-play-12-5-6-dobly-audio-led-projector-zebronics-original-imag9z3yujqmzqt4.jpeg?q=70"
+			},
+			{
+				"id": 6,
+				"title": "projectors",
+				"subtext": "From 8999",
+				"imgSrc": "https://rukminim1.flixcart.com/image/150/150/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg?q=70"
+			}
+		]
+	}
+]
