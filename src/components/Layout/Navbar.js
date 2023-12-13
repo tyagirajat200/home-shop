@@ -33,8 +33,8 @@ const Navbar = () => {
 							}}
 						>
 							{NavItems.map((page) => (
-								<NavLink to={page.to} key={page.to}>
-									{page.title}
+								<NavLink class="navbar" to={page.to} key={page.to} dangerouslySetInnerHTML={{ __html: page.title }}>
+
 								</NavLink>
 							))}
 							<SearchBar />
@@ -67,7 +67,7 @@ const Navbar = () => {
 					</Toolbar>
 				</Container>
 			</AppBar>
-		</header>
+		</header >
 	);
 };
 export default Navbar;

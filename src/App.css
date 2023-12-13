@@ -1,3 +1,22 @@
 .App {
 	text-align: center;
 }
+
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+	border-color: white !important;
+}
+
+.css-qzbt6i-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-popupIndicator{
+	display: none !important;
+}
+
+.css-31jrpl-MuiFormLabel-root-MuiInputLabel-root{
+	color: white !important;
+}
+
+a.navbar {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -87,7 +87,7 @@ export default function SearchBar() {
 			renderInput={(params) => (
 				<TextField
 					{...params}
-					label="Search"
+					label="Search for products, brands and more"
 					size="small"
 					color="success"
 					InputProps={{
