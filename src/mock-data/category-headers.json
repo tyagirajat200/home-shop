@@ -156,7 +156,7 @@
 					{ "title": "Face washes", "to": "/t-shirts" },
 					{ "title": "Beard Oil", "to": "/casual-shirts" },
 					{ "title": "Shaving Essentials", "to": "/formal-shirts" },
-					{ "title": "AfterShave", "to": "/kurats" },
+					{ "title": "After Shave", "to": "/kurats" },
 					{ "title": "Soaps & Bodywashes", "to": "/suits" }
 				]
 			},
